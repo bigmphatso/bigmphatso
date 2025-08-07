@@ -1,4 +1,4 @@
-# 💻⚡ **Hey there! I’m [Your Name]**  
+# 💻⚡ **Hey there! I’m bigmphatso**  
 
 **🚀 Full-Stack Dev | 🎨 Pixel Artist | 🤖 AI/ML Explorer**  
 
