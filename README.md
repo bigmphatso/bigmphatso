@@ -1,6 +1,6 @@
 # 💻⚡ **Hey there! I’m [Your Name]**  
 
-**🚀 Full-Stack Dev | 🛠️ Hardware Hacker | 🎨 Pixel Artist | 🤖 AI/ML Explorer**  
+**🚀 Full-Stack Dev | 🎨 Pixel Artist | 🤖 AI/ML Explorer**  
 
 I thrive where **code meets creativity**—building sleek apps, training neural networks, soldering circuits, and designing interfaces. *Because why specialize in just one thing?*  
 
@@ -14,18 +14,18 @@ I thrive where **code meets creativity**—building sleek apps, training neural 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 
-| **Frontend**  | **Backend**    | **AI/ML**       | **Hardware**    |
-|--------------|---------------|----------------|----------------|
-| React.js     | Python/Flask  | PyTorch        | Raspberry Pi   |
-| TailwindCSS  | Node.js       | OpenAI API     | Arduino        |
-| Figma/Adobe  | Firebase      | Computer Vision| IoT Protocols  |
+| **Frontend**  | **Backend**   
+|--------------|---------------|
+| React.js     | Python/Flask  |
+| TailwindCSS  | Node.js       |
+| Adobe        | Firebase      |
 
 ---
 
 ## 🔥 **Current Projects**  
-- **🤖 AI-Powered Smart Mirror** – React + TensorFlow.js + Raspberry Pi  
-- **🎮 Retro Console Mod** – Hardware emulation with Python & FPGA  
-- **🌐 Network Traffic Visualizer** – D3.js + WebSockets  
+- **🤖 AI-Powered Assitive Tool for Farmers** – React + Firebase + Raspberry Pi  + Ardunio
+- ** What Happened Uni ** – React + Firebase  
+- ** Ransomware Defence System** – Blockchain + IPFS + Python + Js + Brownie + Smart Contracts + Testnets i.e. sepolia
 
 ---
 
@@ -39,10 +39,10 @@ I thrive where **code meets creativity**—building sleek apps, training neural 
 
 ## 📬 **Let’s Build the Future**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_LINK)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)][(https://github.com/bigmphatso)]
+ 
 
-**📧 Email:** `hello@yourdomain.com`  
+**📧 Email:** `www.mpha2berg@gmail.com`  
 
 ---
 
