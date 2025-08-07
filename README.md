@@ -24,13 +24,13 @@ I thrive where **code meets creativity**—building sleek apps, training neural 
 
 ## 🔥 **Current Projects**  
 - **🤖 AI-Powered Assitive Tool for Farmers** – React + Firebase + Raspberry Pi  + Ardunio
-- ** What Happened Uni ** – React + Firebase  
-- ** Ransomware Defence System** – Blockchain + IPFS + Python + Js + Brownie + Smart Contracts + Testnets i.e. sepolia
+- **What Happened Uni** – React + Firebase  
+- **Ransomware Defence System** – Blockchain + IPFS + Python + Js + Brownie + Smart Contracts + Testnets i.e. sepolia
 
 ---
 
 ## 🎯 **Why Collaborate With Me?**  
-✅ **"Full-Stack" Means Full Spectrum** – From PCB designs to pixel-perfect UIs  
+✅ **"Full-Stack" Means Full Spectrum** – From PCB designs to pixel-perfect UIs  -  iwe zanzeru!!!
 ✅ **AI That Actually Works** – Not just notebook experiments—deployed models  
 ✅ **Designer-Developer Hybrid** – No "ugly but functional" prototypes here  
 ✅ **Hardware Whisperer** – If it has a circuit, I’ll make it talk to the cloud  
