@@ -39,7 +39,7 @@ I thrive where **code meets creativity**—building sleek apps, training neural 
 
 ## 📬 **Let’s Build the Future**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)][(https://github.com/bigmphatso)]
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bigmphatso)
  
 
 **📧 Email:** `www.mpha2berg@gmail.com`  
