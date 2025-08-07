@@ -49,5 +49,3 @@ I thrive where **code meets creativity**—building sleek apps, training neural 
 ### ⚡ **Geek Trivia**  
 > *"When I’m not coding, I’m probably designing mechanical keyboards or overclocking my home lab servers."*  
 
-![Banner](https://via.placeholder.com/800x200/1a1a1a/FFFFFF?text=Code+Design+Build+Repeat)  
-*(Replace with actual banner image URL)*  
