@@ -67,9 +67,9 @@ I don't just build apps — I build **systems that think, connect, and evolve.**
 ## 🚀 Featured Projects
 
 
-### 🧠 Nexus Echo — AI Learning & Productivity Ecosystem
-> *Turning Scattered Notes into Structured Knowledge*
-> [LINK](https://nexusecho.vercel.app/web)
+### 🧠 Nexus Echo — AI Learning & Productivity Ecosystem - [Web Link](https://nexusecho.vercel.app/web)
+
+> *Turning Scattered Notes into Structured Knowledge* 
 
 An intelligent platform that transforms raw notes into connected learning paths, project ideas, and knowledge graphs.
 
@@ -114,9 +114,9 @@ A cybersecurity platform that detects, analyzes, and mitigates ransomware using 
 
 
 
-### 🎓 What Happened Uni
-> *Student Communication & Community Platform*
-> [LINK](https://whu-mu.vercel.app)
+### 🎓 What Happened Uni - [Web Link](https://whu-mu.vercel.app)
+> *Student Communication & Community Platform* 
+
 
 A student-centered hub improving communication, event sharing, and campus awareness within university communities.
 
