@@ -66,6 +66,22 @@ I don't just build apps — I build **systems that think, connect, and evolve.**
 
 ## 🚀 Featured Projects
 
+
+### 🧠 Nexus Echo — AI Learning & Productivity Ecosystem
+> *Turning Scattered Notes into Structured Knowledge*
+> [https://](https://nexusecho.vercel.app/web)
+
+An intelligent platform that transforms raw notes into connected learning paths, project ideas, and knowledge graphs.
+
+**Stack:** `React` `AI APIs` `Firebase` `Node.js`
+
+- 🗂 Smart note understanding & structuring
+- 💡 AI-generated project & study suggestions
+- 🕸 Knowledge graph visualization
+- 📚 Personalized resource discovery
+
+---
+
 ### 🌱 LIMA — Assistive Tool for Farmers
 > *AI + IoT + Smart Agriculture*
 
@@ -96,22 +112,11 @@ A cybersecurity platform that detects, analyzes, and mitigates ransomware using 
 
 ---
 
-### 🧠 Nexus — AI Learning & Productivity Ecosystem
-> *Turning Scattered Notes into Structured Knowledge*
 
-An intelligent platform that transforms raw notes into connected learning paths, project ideas, and knowledge graphs.
-
-**Stack:** `React` `AI APIs` `Firebase` `Node.js`
-
-- 🗂 Smart note understanding & structuring
-- 💡 AI-generated project & study suggestions
-- 🕸 Knowledge graph visualization
-- 📚 Personalized resource discovery
-
----
 
 ### 🎓 What Happened Uni
 > *Student Communication & Community Platform*
+> [https://](https://whu-mu.vercel.app)
 
 A student-centered hub improving communication, event sharing, and campus awareness within university communities.
 
@@ -133,23 +138,6 @@ Evolving from a terminal-style AI tool into a fully configurable intelligent pla
 - ⚙ Multi-model provider configuration
 - 🔄 Modular AI workflow builder
 - 🤖 Intelligent process automation
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bigmphatso&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigmphatso&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bigmphatso&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
@@ -194,7 +182,7 @@ Evolving from a terminal-style AI tool into a fully configurable intelligent pla
 - 🔧 Random concept → working prototype is my favorite loop
 - 🎨 Creativity and engineering are the same thing to me
 - 🖥 I optimize systems for fun, not just necessity
-- ⚡ *"Iwe zanzeru"* — the engineering energy never shuts off
+- ⚡ *"Iwe zanzeru"* 
 
 ---
 
