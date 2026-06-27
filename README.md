@@ -114,7 +114,7 @@ A cybersecurity platform that detects, analyzes, and mitigates ransomware using 
 
 
 
-### 🎓 What Happened Uni - [Web Link](https://whu-mu.vercel.app)
+### 🎓 What Happened Uni - [Web Link](https://whu.onrender.com/)
 > *Student Communication & Community Platform* 
 
 
