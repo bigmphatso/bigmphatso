@@ -1,6 +1,5 @@
 name: generate animated snake
 
-
 on:
   schedule:
     - cron: "0 */6 * * *"
@@ -26,12 +25,9 @@ jobs:
           path: dist/*.svg
 
       - name: push to output branch
-        run: |
-          cd dist
-          git init
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b output
-          git add -A
-          git commit -m "generate snake animation"
-          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} output
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
